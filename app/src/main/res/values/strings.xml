@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name" translatable="false">Healtime</string>
+
+    <string name="hello">Welcome to Healtime</string>
+    <string name="register">Register</string>
+    <string name="login">login</string>
+    <string name="lorem" translatable="false">Lorem Ipsum</string>
+
+    <string name="dateFormat">Uploaded on %1$s</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+
+    <string name="logout">Log Out</string>
+    <string name="title_home">Home</string>
+    <string name="title_post_story">Add Story</string>
+    <string name="title_detail_story">Story</string>
+
+    <string name="upload">Upload</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="setting">Setting</string>
+    <string name="error_string">Failed to load data</string>
+    <string name="btn_retry_string">Retry</string>
+    <string name="lorem_long" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam venenatis orci sit amet lacus pellentesque vehicula. Fusce ut scelerisque ipsum. Sed eget sodales leo. Donec cursus</string>
+    <string name="illustration_desc">An illustration</string>
+    <string name="new_to_app">New to StoryApp?</string>
+    <string name="not_new_to_app">Have an account?</string>
+    <string name="email_empty">Enter email</string>
+    <string name="email_invalid">Wrong email format</string>
+    <string name="password_empty">Enter password</string>
+    <string name="password_invalid">Password must be 6 characters long or more</string>
+    <string name="failed">Failed!</string>
+    <string name="write_a_caption">Write a caption…</string>
+    <string name="upload_image_from">Upload image from</string>
+    <string name="or">or</string>
+    <string name="no_image_selected">Please upload image first</string>
+    <string name="permission_failed">failed to get app permission.</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="profile_image_description">Profile image</string>
+    <string name="input_empty">Please fill this field</string>
+    <string name="success_upload_story">Story posted successfully!</string>
+    <string name="avatar_description">user avatar</string>
+    <string name="location_success">Successfully get location</string>
+    <string name="share_current_location">Share current location?</string>
+    <string name="explore">Explore</string>
+    <string name="login_process">Login process…</string>
+    <string name="login_success">login successful</string>
+    <string name="getting_current_location">Getting current location…</string>
+    <string name="get_location_failed">Failed to get location</string>
+    <string name="gps_disabled">GPS is not enabled</string>
+    <string name="please_enable_gps">Please enable GPS!</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="story">Story</string>
+    <string name="required_image">Required Image</string>
+    <string name="description">Description</string>
+    <string name="submit">Submit</string>
+    <string name="isi_dulu">Isi Dulu</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="photo_description">Photo Description</string>
+    <string name="location">Location</string>
+    <string name="detail_description">Detail Description</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="password_icon">Password Icon</string>
+    <string name="there_is_no_story">There is No Story</string>
+    <string name="timeout">Timeout</string>
+    <string name="retry">Retry</string>
+    <string name="photo_story">Photo Story</string>
+    <string name="required_desc">Required Desc\n</string>
+    <string name="required_pic">Required Pic\n</string>
+    <string name="no_permission">No Permission</string>
+    <string name="story_uploaded">Story Uploaded\n</string>
+    <string name="try_again">Try Again</string>
+    <string name="try_again_or_manual_login">Try Again or Manually Login</string>
+    <string name="failed_camera">Failed Camera</string>
+    <string name="failed_picture">Failed Picture</string>
+    <string name="welcome">Welcome</string>
+    <string name="icon_login">Icon Login\n</string>
+    <string name="enter_your_email">Enter your email\n</string>
+    <string name="enter_pass">Enter password</string>
+    <string name="doesn_t_have_an_account_yet">Doesn\'t have an account yet?</string>
+    <string name="icon_register">Icon Register\n</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="manually_login">Manually Login</string>
+    <string name="please_login">Please Login</string>
+    <string name="list_updated">List Updated</string>
+    <string name="app_logo">App Logo</string>
+    <string name="log_out">Log Out</string>
+    <string name="logo_splash">HealTime</string>
+    <string name="text_splash1">Diagnose Your Disease</string>
+    <string name="text_splash2">With Yourself</string>
+    <string name="text_splash3">Enjoy the convenience of diagnosing</string>
+    <string name="text_splash4">diseases without the need to see </string>
+    <string name="text_splash5">a Doctor</string>
+    <string name="btn_splash">Let\'s Get Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="penyakit">Penyakit</string>
+    <string name="gejala">gejala</string>
+    <string name="splash">splash</string>
+    <string name="penyakit_yang_tersimpan">Penyakit yang tersimpan</string>
+</resources>
