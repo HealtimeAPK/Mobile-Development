@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item
+        android:id="@+id/bottom_story"
+        android:title="History"
+        android:icon="@drawable/baseline_history_24"/>
+    <item
+        android:id="@+id/bottom_save"
+        android:title="Archieve"
+        android:icon="@drawable/baseline_archive_24"/>
+    <item
+        android:id="@+id/bottom_acc"
+        android:title="Account"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+</menu>
